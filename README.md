@@ -1,6 +1,3 @@
-Here is a **clean, ready-to-use README.md** for your **Web-Based Inventory Management System with API (Laravel + Laravel-Admin)**. You can copy and paste this directly into your GitHub repository and edit names/URLs as needed.
-
----
 
 # Web-Based Inventory Management System API (Laravel + Laravel-Admin)
 
@@ -26,10 +23,10 @@ A web-based inventory management system with RESTful APIs, built using **Laravel
 
 * Laravel
 * Laravel-Admin
-* MySQL / PostgreSQL
+* MySQL 
 * REST API
-* Bootstrap / Tailwind CSS
-* JavaScript / Axios
+* Bootstrap 
+* JavaScript 
 
 ---
 
@@ -72,7 +69,7 @@ Duplicate `.env.example` and rename it to `.env`
 Update your database credentials:
 
 ```
-DB_DATABASE=inventory_db
+DB_DATABASE=inventory_MS
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -105,7 +102,7 @@ Default Credentials:
 
 ```
 Username: admin
-Password: admin
+Password: admin@123
 ```
 
 (Change after first login)
@@ -174,23 +171,7 @@ Add your screenshots like this (since your images are in `public/images`):
 **Mohammed Abamecha Abadiga**
 
 * GitHub: [https://github.com/MameAbadiga](https://github.com/MameAbadiga)
-* LinkedIn: (optional)
-* Email: (optional)
+* Email: mame.abadiga
 
----
 
-## 📄 License
-
-This project is licensed for educational and portfolio purposes.
-
----
-
-If you want, next I can give you:
-
-✅ A short version for CV
-✅ One-line GitHub repo description
-✅ API documentation page
-✅ Postman collection template
-
-Just say **"Give me short version"** or **"Add Postman doc"**
 
