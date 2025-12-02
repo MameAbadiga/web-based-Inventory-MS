@@ -155,16 +155,13 @@ Response:
 
 ## 🖼 Screenshots
 
-Add your screenshots like this (since your images are in `public/images`):
-
-```markdown
-![Dashboard](public/images/1.jpg)
-![Product List](public/images/2.jpg)
-![Add Product](public/images/3.jpg)
-![Low Stock Alert](public/images/5.jpg)
-```
-
----
+<img width="2149" height="1168" alt="Image" src="https://github.com/user-attachments/assets/e9025b78-08b2-4170-9426-28a8c5f3af70" />
+<img width="2159" height="1173" alt="Image" src="https://github.com/user-attachments/assets/1c235e80-a1f9-4fc0-b258-3c1fe9a8aa85" />
+<img width="2159" height="935" alt="Image" src="https://github.com/user-attachments/assets/48036570-107f-4caf-9301-0f18bf5922cf" />
+<img width="2146" height="1028" alt="Image" src="https://github.com/user-attachments/assets/8d3a1eeb-e8c1-4664-9ed2-b552566e7711" />
+<img width="2159" height="1023" alt="Image" src="https://github.com/user-attachments/assets/7f3f71e5-86ac-4434-87b6-d846f4d0927f" />
+<img width="2142" height="830" alt="Image" src="https://github.com/user-attachments/assets/edb9bbe0-d7f4-416f-a142-b583535ca29a" />
+<img width="2155" height="1189" alt="Image" src="https://github.com/user-attachments/assets/95bebdae-3245-4c53-8488-ba17c516f660" />
 
 ## 👤 Author
 
